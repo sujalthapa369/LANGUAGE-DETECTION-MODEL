@@ -18,7 +18,7 @@ The model works with a multilingual dataset that includes a variety of languages
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/language-detection-model.git
+   git clone https://github.com/sujalthapa369/language-detection-model.git
    cd language-detection-model
    ```
 
