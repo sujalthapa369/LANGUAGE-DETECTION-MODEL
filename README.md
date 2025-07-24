@@ -51,7 +51,7 @@ print(f"Predicted Language: {prediction[0]}")
 
 ## Results
 
-- **Performance Metrics**: Includes classification accuracy, precision, recall, and F1-score.
+- **Performance Metrics**: Includes classification accuracy, precision, recall, and F1-Score.
 - **Confusion Matrix**: Visual representation of model predictions.
 - **Sample Visualization**: Language distribution bar chart and other exploratory data analysis plots.
 
